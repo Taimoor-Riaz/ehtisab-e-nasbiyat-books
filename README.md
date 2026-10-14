@@ -1,5 +1,3 @@
-# Ehtisab-e-Nasbiyat — PDF volumes
+# ehtisab-e-nasbiyat-books
 
-The 12 volumes of *Ehtisab-e-Nasbiyat* (احتساب ناصبیت), used by the Ehtisab-e-Nasbiyat Android app.
-
-The PDFs are attached to the [`pdfs-v1` release](../../releases/tag/pdfs-v1). `volumes.json` in that release lists each volume's download link, size, page count and SHA-256 checksum.
+Data files for the Ehtisab-e-Nasbiyat app. The files are encrypted and can only be opened inside the app.
